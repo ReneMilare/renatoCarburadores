@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-UserApiApplication<user-api>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "br.com.renatocarburadores.userapi.UserApiApplication",
+      "projectName": "user-api",
+      "args": ""
+    }
+  ]
+}
